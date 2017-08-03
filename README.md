@@ -1,2 +1,2 @@
 # wc
-哈哈
+This is a file
